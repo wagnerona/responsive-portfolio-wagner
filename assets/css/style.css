@@ -155,6 +155,7 @@ button:hover {
     background-image: url("../images/EXP1.jpg");
 }
 
+
 .heading {
     background-color: rgba(255, 255, 255, 0.7);
     text-align: center;
@@ -180,7 +181,10 @@ button:hover {
 
 .categoryGridArea:hover {
     transform: translateY(-6px);
+    opacity: 0.5;
 }
+
+
 
 #contact-me {
     text-align: center;
