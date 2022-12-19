@@ -1,5 +1,4 @@
-# responsive-portfolio-wagner
-Week 2 challenge to create portfolio
+# Week 2 challenge to create portfolio
 
 ## Welcome to my responsive portfolio!
 
