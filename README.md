@@ -10,4 +10,12 @@ To achieve this goal, I will be using media queries and other techniques to crea
 
 I hope you enjoy exploring my portfolio! If you have any feedback or suggestions, please don't hesitate to contact me.
 
+* So fat there are two features that are not included or not working as I want them.
+
+- As of time of submission the hyperlinks of the images are not workin
+- The media querys are still not pushed into Github as they are not working at all
+- This readme is not fnished needs more documentation
+
+Please take this into consideration whilst checking out the deployed application" 
+
 *Note this readme is under conmstruction"
