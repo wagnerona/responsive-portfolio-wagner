@@ -30,19 +30,19 @@ I hope you enjoy exploring my portfolio! If you have any feedback or suggestions
 
 - *not much of a bug but css needs to be checked to make sure its optmized (consolidate items)*
 
-Thes two issues will are as of 00:00 20/12/22, I will be speaking with a TA on the 21st to try and resolve this issues
+Thes two issues are as of 00:00 20/12/22, I will be speaking with a TA on the 21st to try and resolve them
 
-*Please take this into consideration whilst checking out the deployed application*
+*Note to self, build blocks, structure the basics and then get creative with css. Otherwise you get carried away*
 
-Resources:
+## Resources:
 
 Slack Class Resources 
 
-Github repo:
+## Github repo:
 
 https://github.com/wagnerona/responsive-portfolio-wagnerLinks
 
-Deployed Website/portfolio:
+## Deployed Website/portfolio:
 
 https://wagnerona.github.io/responsive-portfolio-wagner/
 
