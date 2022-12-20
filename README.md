@@ -22,9 +22,13 @@ I hope you enjoy exploring my portfolio! If you have any feedback or suggestions
 ## Usage
 ![responsive-portfolio](assets/images/Full%20page.png)
 
+![responsive-portfolio](assets/images/page-construction.png)
+
 ## 2 Bugs encountered so far
 - As of time of submission the hyperlinks of the images are not working. Please click on the the "Main Projects" text to be redirected to the test page
 - The media querys are not working properly, for some reason format is causing problems when testing for smaller screens
+
+- *not much of a bug but css needs to be checked to make sure its optmized (consolidate items)*
 
 Thes two issues will are as of 00:00 20/12/22, I will be speaking with a TA on the 21st to try and resolve this issues
 
