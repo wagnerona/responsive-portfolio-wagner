@@ -190,3 +190,26 @@ button:hover {
     text-align: center;
     padding: 50px;
 }
+
+@media only screen and (max-width: 1200px) {
+    .heroContainer {
+        width: 50%;
+    }
+}
+
+
+@media only screen and (max-width: 1000px)
+{
+    #workCategory {
+        margin: 0px;
+        grid-template-rows: 300px 300px 300px 300px 300px;
+        grid-template-columns: 1fr;
+        grid-template-areas:
+            "work1"
+            "Work2"
+            "work3"
+            "work4"
+            "work5"
+        ;
+    }
+}
