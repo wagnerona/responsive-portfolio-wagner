@@ -21,8 +21,6 @@ I hope you enjoy exploring my portfolio! If you have any feedback or suggestions
 
 ## Usage
 ![responsive-portfolio](assets/images/Full%20page.png)
-![responsive-portfolio](assets/images/mobile1.png)
-![responsive-portfolio](assets/images/mobile%202.png)
 
 ## 2 Bugs encountered so far
 - As of time of submission the hyperlinks of the images are not working. Please click on the the "Main Projects" text to be redirected to the test page
