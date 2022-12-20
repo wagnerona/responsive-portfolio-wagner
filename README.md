@@ -24,7 +24,7 @@ I hope you enjoy exploring my portfolio! If you have any feedback or suggestions
 
 ## 2 Bugs encountered so far
 - As of time of submission the hyperlinks of the images are not working. Please click on the the "Main Projects" text to be redirected to the test page
-- The media querys are still working properly, for some reason format is causing problems when testing for smaller screens
+- The media querys are not working properly, for some reason format is causing problems when testing for smaller screens
 
 Thes two issues will are as of 00:00 20/12/22, I will be speaking with a TA on the 21st to try and resolve this issues
 
@@ -32,9 +32,11 @@ Thes two issues will are as of 00:00 20/12/22, I will be speaking with a TA on t
 
 Resources:
 
+Slack Class Resources 
+
 Github repo:
 
-https://github.com/wagnerona/responsive-portfolio-wagnerLinks to an external site.
+https://github.com/wagnerona/responsive-portfolio-wagnerLinks
 
 Deployed Website/portfolio:
 
